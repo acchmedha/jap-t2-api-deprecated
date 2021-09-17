@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JAP_Task_1_MoviesApi", "JAP_Task_1_MoviesApi.csproj", "{C1498562-4B1E-401F-99FC-280729EE4598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JAPT2NUnitTests", "..\JAPT2NUnitTests\JAPT2NUnitTests.csproj", "{0354DDF7-5847-416B-8F0F-96FC1E68B840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1498562-4B1E-401F-99FC-280729EE4598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1498562-4B1E-401F-99FC-280729EE4598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1498562-4B1E-401F-99FC-280729EE4598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1498562-4B1E-401F-99FC-280729EE4598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0354DDF7-5847-416B-8F0F-96FC1E68B840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0354DDF7-5847-416B-8F0F-96FC1E68B840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0354DDF7-5847-416B-8F0F-96FC1E68B840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0354DDF7-5847-416B-8F0F-96FC1E68B840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E9F670B-A7F9-4C12-A12F-445DDBF4A6BE}
+	EndGlobalSection
+EndGlobal
